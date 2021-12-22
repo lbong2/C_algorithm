@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(72,13): warning C4098: 'topsort': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(139,31): warning C4098: 'revtopsort': 'void' 함수에서 값을 반환하고 있습니다.
+  ch11_TopologicalSolt.vcxproj -> C:\Users\82102\source\repos\ch01_Multiple\x64\Debug\ch11_TopologicalSolt.exe

@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\82102\source\repos\ch01_Multiple\ch09_Kruskal\소스.c(96,15): warning C4013: 'find_set'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch09_Kruskal\소스.c(125,19): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch09_Kruskal\소스.c(119,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  ch09_Kruskal.vcxproj -> C:\Users\82102\source\repos\ch01_Multiple\x64\Debug\ch09_Kruskal.exe

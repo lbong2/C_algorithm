@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\82102\source\repos\ch01_Multiple\PracticeBoard\소스.c(5,12): warning C4098: 'right_hand_on_wall': 'void' 함수에서 값을 반환하고 있습니다.
+  PracticeBoard.vcxproj -> C:\Users\82102\source\repos\ch01_Multiple\Debug\PracticeBoard.exe

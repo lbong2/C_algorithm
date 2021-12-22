@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\82102\source\repos\ch01_Multiple\Midterm\소스.c(87,13): warning C4013: 'pq_update'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\ch01_Multiple\Midterm\소스.c(88,20): warning C4013: 'pq_empty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\ch01_Multiple\Midterm\소스.c(90,19): warning C4013: 'pq_extract'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\ch01_Multiple\Midterm\소스.c(218,8): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  Midterm.vcxproj -> C:\Users\82102\source\repos\ch01_Multiple\Debug\ch08_Midterm.exe

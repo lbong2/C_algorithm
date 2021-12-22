@@ -1,0 +1,11 @@
+﻿  소스.c
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(37,24): warning C4133: '=': '_head *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(59,13): warning C4098: 'topsort': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(65,26): warning C4133: '=': '_head *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(101,40): warning C4133: '=': '_head *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(102,34): warning C4133: '=': 'node *'과(와) '_head *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(112,23): warning C4133: '=': '_head *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(122,23): warning C4133: '=': '_head *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(136,31): warning C4098: 'revtopsort': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch11_TopologicalSolt\소스.c(141,27): warning C4133: '=': '_head *'과(와) 'node *' 사이의 형식이 호환되지 않습니다.
+  ch11_TopologicalSolt.vcxproj -> C:\Users\82102\source\repos\ch01_Multiple\Debug\ch11_TopologicalSolt.exe

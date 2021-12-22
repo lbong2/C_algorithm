@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\82102\source\repos\ch01_Multiple\ch10_Shortest\소스.c(83,13): warning C4013: 'pq_update'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch10_Shortest\소스.c(84,20): warning C4013: 'pq_empty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\ch01_Multiple\ch10_Shortest\소스.c(86,19): warning C4013: 'pq_extract'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ch10_Shortest.vcxproj -> C:\Users\82102\source\repos\ch01_Multiple\x64\Debug\ch10_ShortestPath.exe
